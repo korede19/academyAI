@@ -1,7 +1,7 @@
 // --- Configuration ---
 // PASTE YOUR DEPLOYED GOOGLE APPS SCRIPT WEB APP URL HERE:
 const GOOGLE_APPS_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbzrZDqiizW7JO7VBeAxf6OWsKGdQE_X8J2LichjJuc1QldhQJ0adP60e36LrtDe4SE/exec";
+  "https://script.google.com/macros/s/AKfycbyIySD4uPAuq1LL9MRHmgF3qh2-R5KZi3iJYYzPAegCkq3_b0kHU5oRgLSAZWDa7uSh/exec";
 
 // --- State Variables ---
 let firstName = "";
